@@ -63,3 +63,9 @@ public class FeatureFileTempManager {
         prepareTemporaryFeatureFile();
     }
 }
+
+// <dependency>
+//         <groupId>com.opencsv</groupId>
+//         <artifactId>opencsv</artifactId>
+//         <version>5.8</version>  <!-- Latest stable version as of 2024 -->
+//     </dependency>
